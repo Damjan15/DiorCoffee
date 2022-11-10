@@ -1,7 +1,7 @@
 # Dior Coffee
 Dior Coffee is a landing page for a small coffee shop. The landing page contains the pricing of their products, blog posts and email form to send emails.
 
-**Link to project**: [Hosted on Netlify]("https://jolly-alfajores-c70b0d.netlify.app/")
+**Link to project**: [https://loquacious-biscuit-0f70ed.netlify.app/]("https://loquacious-biscuit-0f70ed.netlify.app//")
 
 ![project preview](preview.png)
 
